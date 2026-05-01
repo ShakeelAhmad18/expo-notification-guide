@@ -1,7 +1,7 @@
 # Expo Push Notifications — Complete Implementation Guide
 
 **Author**: Senior React Native Developer  
-**Based on**: OneCare AI (FYP Project) — Real Production Implementation  
+**Based on**: OneCare AI — Real Production Implementation  
 **Date**: April 2026  
 **Expo SDK**: 55 | **React Native**: 0.83+
 
@@ -764,4 +764,4 @@ Backend (Node.js):
 
 > **Document Version**: 1.0  
 > **Tested With**: Expo SDK 55, React Native 0.83, Node.js 22  
-> **Project**: OneCare AI — FYP Healthcare Platform
+> **Project**: OneCare AI — Healthcare Platform
